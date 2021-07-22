@@ -2,5 +2,9 @@
 .idea
 *.deb
 *.bak
+images
+pkged.go
 
 .DS_Store
+
+selenium/barrier/barrier
